@@ -10,6 +10,7 @@ console = Console()
 
 def _confidence_bar(confidence: float, width: int = 20) -> Text:
     """Render a confidence score as an inline colored bar."""
+    confidence = max(0.0, min(confidence, 1.0))
     filled = int(confidence * width)
     empty = width - filled
 
