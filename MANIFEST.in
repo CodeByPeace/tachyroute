@@ -11,6 +11,7 @@ prune tests
 prune examples
 prune docs
 prune .github
+prune assets
 
 # Exclude junk files globally
 global-exclude *.py[cod]

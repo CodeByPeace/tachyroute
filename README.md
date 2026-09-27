@@ -19,6 +19,12 @@
 
 **TachyRoute** is a revolutionary open-source Non-Autoregressive Decision Engine designed to redefine how machine learning systems make fast, explainable choices. By unifying multimodality, early-exit adaptive compute, and real-time evidence extraction, TachyRoute achieves state-of-the-art results across massive industry benchmarks in a single forward pass.
 
+<p align="center">
+  <video src="https://github.com/DhanushNehru/tachyroute/raw/main/assets/videos/TachyRoute-launch.mp4" controls width="720">
+    Your browser does not support the video tag. <a href="assets/videos/TachyRoute-launch.mp4">Watch the launch video</a>.
+  </video>
+</p>
+
 It evaluates typed decisions (`choice`, `score`, `boolean`) over any state (text, code, or structured JSON) in under **15 milliseconds**—without generating text, hallucinating, or parsing fragile JSON outputs. 
 
 ## 🚀 The TachyRoute Leap (Why it's a Historic Breakthrough)
